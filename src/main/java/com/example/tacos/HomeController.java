@@ -1,4 +1,4 @@
-package com.example.tacocloudtutorial;
+package com.example.tacos;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
